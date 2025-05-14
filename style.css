@@ -1,0 +1,53 @@
+header{
+    background-color: rgb(5, 5, 119);
+    color: cornsilk;
+    padding: lem 0 ;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    top: 0;
+
+}
+
+body{
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background: no-repeat;
+    background-attachment: fixed;
+}
+
+.tabela {
+    margin: 10px;
+    padding: 15%;
+    border-collapse: collapse; 
+    margin-top: 50px;
+    width: 50%;
+   
+}
+
+.tabela td {
+    margin: 3px;
+    width: 60px; 
+    height: 60px; 
+    border: 5px solid #ccc; 
+    text-align: center; 
+    vertical-align: top; 
+    font-size: 2em; 
+    background-color: #eee;
+    padding: 40px; 
+    background-size: 50px auto;
+    text-align: center;
+   
+}
+
+
+img{
+    width: 70px;
+    height: 70px;
+ }
+
+
