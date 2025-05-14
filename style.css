@@ -1,13 +1,19 @@
+html body{
+    margin: 0;
+    height: 50;
+}
+
 header{
     background-color: rgb(5, 5, 119);
     color: cornsilk;
-    padding: lem 0 ;
+    padding: 1em 0 ;
     text-align: center;
     width: 100%;
     position: fixed;
     top: 0;
 
 }
+
 
 body{
     font-family: sans-serif;
@@ -21,10 +27,10 @@ body{
 }
 
 .tabela {
-    margin: 10px;
-    padding: 15%;
+    margin: 20px;
+    padding: 20%;
     border-collapse: collapse; 
-    margin-top: 50px;
+    margin-top: 100px;
     width: 50%;
    
 }
@@ -33,7 +39,7 @@ body{
     margin: 3px;
     width: 60px; 
     height: 60px; 
-    border: 5px solid #ccc; 
+    border: 2px solid #847f7f; 
     text-align: center; 
     vertical-align: top; 
     font-size: 2em; 
@@ -46,8 +52,9 @@ body{
 
 
 img{
-    width: 70px;
-    height: 70px;
+    width: 90px;
+    height: 90px;
+
  }
 
 
